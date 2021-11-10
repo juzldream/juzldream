@@ -19,4 +19,3 @@ Here are some quick things about me:
 
 }
 ```
-![](https://img2.baidu.com/it/u=2795724226,3705372660&fm=26&fmt=auto)
