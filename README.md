@@ -9,9 +9,9 @@ Here are some quick things about me:
 	fmt.Println(profile)
 	
 	me := map[string]string{
-		"name":    "songjiayang",
+		"name":    "racher",
 		"job":     "Software Engineer",
-		"company": "JDCloud",
+		"company": "JuzlDream.co",
 	}
 	for k, v := range me {
 		fmt.Printf("- %s: %s \n", k, v)
